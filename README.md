@@ -29,7 +29,7 @@
 
 ## 🚨 About 
 
-This project is a SaaS web application that classifies bird species using a trained AI model. Here is the demo of [Birds Image Classification](demoimageclassification).
+This project is a SaaS web application that classifies bird species using a trained AI model. Here is the demo of [Birds Image Classification](https://github.com/zulfiqarAlibalti/bird_classification/blob/master/demoimageclassification.mp4).
 
 ![Birds Image Classification Demo](Bird_imageclassifcation.png)
 
