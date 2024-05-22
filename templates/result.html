@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <div class="form-container">
+        <h2>Prediction Result</h2>
+        <p>The image is classified as: <strong>{{ class_name }}</strong></p>
+        <img src="{{ image_url }}" alt="Predicted Image" class="predicted-image">
+        <div class="form-group">
+            <a href="{{ url_for('image.index') }}" class="btn btn-primary btn-block">Try Another</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

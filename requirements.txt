@@ -1,0 +1,10 @@
+flask
+torch
+torchvision
+Pillow
+Flask
+Flask-WTF
+Flask-Login
+Flask-SQLAlchemy
+email-validator
+python-dotenv
